@@ -1,70 +1,46 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# YT-App
+Link: https://boring-kowalevski-3e914a.netlify.app/
 
-https://boring-kowalevski-3e914a.netlify.app/
+![File Size](https://img.shields.io/github/size/pyhurst/yt-app)
+![Repo Size](https://img.shields.io/github/repo-size/pyhurst/yt-app)
+![Downloads](https://img.shields.io/github/downloads/pyhurst/yt-app/total)
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+Uses the youtube API to build a basic React app that finds video based on a user's input.
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Installation
 
-### `npm test`
+Web application
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
 
-### `npm run build`
+To show 8 videos from the youtube api on a simple application 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## License
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![GitHub License](https://img.shields.io/github/license/pyhurst/yt-app)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contributors
 
-### `npm run eject`
+[![GitHub Contributors](https://img.shields.io/github/contributors/pyhurst/yt-app)](https://GitHub.com/pyhurst/yt-app/graphs/contributors/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Tests
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+None
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Github
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Username: pyhurst
 
-## Learn More
+Email: youngphil9@gmail.com
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![Github Profile Picture](https://avatars2.githubusercontent.com/pyhurst)
